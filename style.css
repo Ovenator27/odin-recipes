@@ -1,11 +1,31 @@
 * {
-  background-color: #fefbea;  
+  background-color: #fefbea;
   box-sizing: border-box;
 }
+
 .pg-ttl {
     font-family: Helvetica, sans-serif;
     color: #000000;
     font-weight: bold;
     text-align: center;
-    font-size: 80px;   
+    font-size: 80px;
+    /* border-style: solid; */
 }
+
+.container {
+  display: flex;
+}
+
+div {
+  /* border-style: solid; */
+  margin: 10px;
+  text-align: center;
+  font-size: 40px;
+  flex: 1;
+  
+}
+
+img {
+  width: 400px;
+  height: 400px;
+} 
