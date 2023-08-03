@@ -1,0 +1,28 @@
+* {
+    background-color: cornsilk;
+    font-family: Palatino;
+    color: rgb(78, 78, 27)
+}
+
+.pg-heading {
+    font-family: Palatino;
+    font-size: 48px;
+    text-align: center;
+    color: grey;
+}
+
+.sub-heading {
+    color: black;
+}
+
+.recipe-link {
+    flex: auto;
+    color: black;
+    padding: 10px;
+    background-color: white;
+    text-decoration: none;
+}
+
+a {
+    color: blue;
+}
